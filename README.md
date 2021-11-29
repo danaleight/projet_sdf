@@ -1,7 +1,7 @@
 # projet_sdf
 projet scolaire en structure de données fondamentales
 
-# consignes :
+consignes :
 Travail demandé EN LANGAGE C : 
 1) Implémenter de très grands entiers à l’aide d’une Liste. 
 2) Implémenter l’adjonction aux feuilles d’un très grand entier dans un AVL. 
